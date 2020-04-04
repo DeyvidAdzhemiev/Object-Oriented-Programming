@@ -1,7 +1,5 @@
 #pragma once
-#include <iostream>
-#include <cstring>
-#include 'String.cpp'
+
 using namespace std;
 
 
