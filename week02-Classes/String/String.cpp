@@ -1,6 +1,8 @@
 #include <iostream>
-using namespace std;
 #include <cstring>
+#include <fstream>
+#include "String.h"
+using namespace std;
 
 class String
 {
